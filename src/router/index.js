@@ -13,6 +13,11 @@ export default new Router({
   // mode: 'history',
   routes: [
     {
+      path: '',
+      name: 'Login',
+      component: Login
+    },
+    {
       path: '/',
       name: 'Login',
       component: Login
