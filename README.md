@@ -1,7 +1,7 @@
 # elementui-test
 
 > 一个基于vue和element-ui的后台管理系统  
-预览地址：[DEMO](http://www.yancx.cn/elementui-test)
+预览地址：[DEMO](http://www.yancx.cn/elementui-test/)
 
 ## 使用了
 vue + element-ui + echarts + vue-particles
